@@ -21,7 +21,7 @@ I am an engineering student and Fivem developer.
 ###
 
 ## 📚 Documentation
-https://justdark-documentation.gitbook.io/justdark-documentation
+https://justdark-documentation.gitbook.io/newpixel-documentation
 
 ## 👉 Social media
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s6SmjkfZ6s)

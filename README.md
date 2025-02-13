@@ -28,3 +28,4 @@ https://justdark-documentation.gitbook.io/justdark-documentation
 [![Twitter](https://img.shields.io/badge/X-%23000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/JustD1rk)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@newpixelstore)
 [![Kick](https://img.shields.io/badge/Kick-%2353FC18.svg?style=for-the-badge&logo=Kick&logoColor=white)](https://kick.com/justd1rk)
+[![Tebex](https://img.shields.io/badge/Tebex-%23000.svg?style=for-the-badge&logo=Tebex&logoColor=white)](https://newpixel.tebex.io/)
